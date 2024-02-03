@@ -1,8 +1,4 @@
-Certainly! Based on the HTML code you provided, here's a detailed description you could use for your README.md file on GitHub:
-
----
-
-# Google Search Page Replica
+ # Google Search Page Replica
 
 This project is a replica of the iconic Google search page, designed and implemented using HTML and CSS. The HTML file (`index.html`) provides the structure of the page, while the CSS file (`style.css`) contains the styling to replicate the look and feel of the original Google search interface.
 
@@ -23,6 +19,6 @@ To view the replica of the Google search page, simply open the `index.html` file
 
 ## Author
 
-[TANZEEL UR REHMAN ] - [Your GitHub Profile](https://github.com/TanzeelMughal431)
+[TANZEEL UR REHMAN ] - [My GitHub Profile](https://github.com/TanzeelMughal431)
 
 Feel free to contribute to this project by submitting pull requests or reporting issues.
